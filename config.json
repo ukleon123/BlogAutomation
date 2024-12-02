@@ -1,0 +1,19 @@
+{
+    "keyword": "",
+    "img_title": "",
+    "blog": {
+        "user": "BUSINESS",
+        "mode": "BUSINESS"
+    },
+    "gpt": {
+        "model": "gpt-4o-mini",
+        "img_model": "dall-e-3",
+        "key": "",
+        "prompt": [
+            
+        ],
+        
+        "img_size": "",
+        "img_prompt": ""
+    }
+}
